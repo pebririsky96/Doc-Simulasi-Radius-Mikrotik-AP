@@ -1,8 +1,9 @@
-# 2025-12-10 13:37:35 by RouterOS 7.20.2
-# software id = P22F-XEMU
-#
-# model = RB931-2nD
-# serial number = HD3084Y7BKJ
+- 2025-12-10 13:37:35 by RouterOS 7.20.2
+- software id = P22F-XEMU
+- model = RB931-2nD
+- serial number = HD3084Y7BKJ
+
+
 /interface bridge
 add name=Bridge1
 /interface wireless
