@@ -3,7 +3,7 @@
 
 Repositori ini berisi dokumentasi lengkap terkait proses simulasi dan implementasi autentikasi RADIUS pada perangkat MikroTik RouterOS (Hotspot) menggunakan FreeRADIUS dan daloRADIUS sebagai server manajemen pengguna. Proyek ini dirancang sebagai panduan teknis untuk pembelajaran, pengujian, maupun persiapan deployment pada lingkungan jaringan kampus, sekolah, maupun enterprise.
 
-🎯 Tujuan Proyek
+## 🎯 Tujuan Proyek
 
 Dokumentasi ini dibuat untuk memberikan panduan menyeluruh mengenai:
 
