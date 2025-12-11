@@ -261,10 +261,3 @@ Menyelesaikan struktur halaman.
 5. Jika RADIUS Accept → client mendapatkan akses internet.
 
 ---
-
-# Mau saya buatkan versi:
-
-✅ Penjelasan yang lebih teknis (RADIUS flow)?
-✅ Diagram alur login CHAP Hotspot?
-✅ Perbaikan security HTML login page?
-✅ Template login page UNS siap pakai?
